@@ -71,3 +71,38 @@ body.fotos #navegacao a#fotos
     background: #de003e;
     cursor: text;
 }
+
+/* Configuração layout de três colunas */
+#conteudo {
+    margin-top: 60px;
+    background: #f5f5f5;
+}
+
+#primario {
+    width: 270px;
+    background: blue;
+    float: left;
+}
+
+#secundario {
+    width: 270px;
+    background: green;
+     float: left;
+}
+
+#lateral {
+    width: 180px;
+    background: yellow;
+    float: left;
+}
+
+#container-rodape {
+    background: #294c71;
+    padding: 20px;
+}
+
+#rodape{
+    width: 750px;
+    margin: 0 auto;
+    color:#fff
+}
