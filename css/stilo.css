@@ -194,6 +194,39 @@ h3 {
     color: #fff;
 }
 
+/* Formatação lista de notícias */
+#lista-noticias li {
+    padding: 2px;
+    border-bottom: 1px solid #ccc;
+    height: 62px;
+}
+
+#lista-noticias li a img {
+    float: left;
+    margin: 5px;
+}
+
+#lista-noticias li a h3 {
+    text-decoration: none;
+    font-size: 0.8em;
+    padding: 0;
+    color: #3e7ab9;
+}
+
+#lista-noticias li a {
+    text-decoration: none;
+}
+
+#lista-noticias li a p {
+    text-decoration: none;
+    font-size: 0.7em;
+}
+
+#lista-noticias li:hover {
+    background: #eee;
+    cursor: pointer;
+}
+
 /* Rodape*/
 #container-rodape {
     background: #294c71;
