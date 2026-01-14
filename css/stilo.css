@@ -189,6 +189,11 @@ h3 {
     color: #fff;
 }
 
+.entrevista h3 {
+    background: #de003e;
+    color: #fff;
+}
+
 /* Rodape*/
 #container-rodape {
     background: #294c71;
