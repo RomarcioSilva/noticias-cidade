@@ -13,6 +13,19 @@ Durante o desenvolvimento, foram realizados ajustes e melhorias para reforçar o
 
 ---
 
+## 📷 Preview do Projeto
+
+### 🏠 Home
+![Home](img/home.png)
+
+### 🇧🇷 Brasil
+![Brasil](img/brasil.png)
+
+### 📸 Fotos
+![Fotos](img/fotos.png)
+
+---
+
 ## 🎓 Projeto de Curso
 Este projeto faz parte de um curso de Desenvolvimento Web e foi utilizado como exercício prático para aplicar os conhecimentos adquiridos em:
 - Estruturação de páginas com HTML
