@@ -5,7 +5,7 @@ Projeto de site de notícias desenvolvido com **HTML5 e CSS3**, simulando um por
 ---
 
 ## 📌 Sobre o Projeto
-O **Notícias Cidade** é um projeto front-end desenvolvido durante um **curso de Desenvolvimento Web**, com o objetivo de praticar conceitos fundamentais de **HTML semântico**, **CSS para layout** e **organização visual de conteúdo**.
+O **Notícias Cidade** é um projeto front-end desenvolvido durante um curso de Desenvolvimento Web, com o objetivo de praticar conceitos fundamentais de **HTML semântico**, **CSS para layout** e organização visual de conteúdo.
 
 O site simula um portal de notícias, contendo seções como destaque principal, entrevistas, notícias recentes e páginas por categoria, como **Brasil** e **Fotos**.
 
